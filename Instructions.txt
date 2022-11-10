@@ -1,0 +1,6 @@
+This is a AutoML project. Using streamlit to create a webapp, do data profiling and training all the supervised learning algorithms, and showing the results, to help in ML tasks.
+To Run: Simply run the app.py using streamlit.
+Command:
+(In a new environment having python 3.8)
+pip install -r requirements.txt
+streamlit run app.py
